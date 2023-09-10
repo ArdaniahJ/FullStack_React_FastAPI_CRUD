@@ -124,7 +124,7 @@ backend/
      ```
   5. Open default browser, and navigate to `http://localhost:8888/docs` to access the __FastAPI Swagger UI__ locally.
   6. Test the backend API endpoints. Below is a set of user credentials in JSON format that was tested during development. Modified accordingly except for phone number.
-📝__Note___: The phone number must be in the format: `+6012-3726630`. The `regex and validator` still needs some improvements. <br>
+<br> 📝__Note___: The phone number must be in the format: `+6012-3726630`. The `regex and validator` still needs some improvements. <br>
  
   ```
   {
